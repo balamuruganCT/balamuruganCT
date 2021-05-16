@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @balamuruganCT
+- 👋 Hi, I’m @balamurugan(called balagee)
 - 👀 I’m interested in ARTIFICIAL INTELLIGENCE
 - 🌱 I’m currently learning DATA SCIENCE.
 - 💞️ I’m looking to collaborate on ...
