@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @balamurugan(called balagee)
-- 👀 I’m interested in ARTIFICIAL INTELLIGENCE
-- 🌱 I’m currently learning DATA SCIENCE.
+- 👀 I’m interested in Data structures, alogirthms and ARTIFICIAL INTELLIGENCE.
 - 📫 How to reach me ...@balacse.v06@gmail.com
 
 <!---
